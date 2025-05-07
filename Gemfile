@@ -76,4 +76,5 @@ end
 
 # simple form 
 gem 'simple_form'
-gem "turbolinks"
+
+gem 'bootstrap', '~> 5.0.0'
