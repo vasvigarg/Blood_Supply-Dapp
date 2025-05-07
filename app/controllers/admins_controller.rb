@@ -6,6 +6,7 @@ class AdminsController < ApplicationController
     end 
 
     def donorsdata 
+        @donors = Donor.all
     end 
     def patientsdata
     end 
